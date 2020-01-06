@@ -1,5 +1,4 @@
-print "hi"
-
+print "welcome"
 class Vendor:
 
     def __init__(self,vid,vnm):
